@@ -1,0 +1,6 @@
+account_alias,region,allocation_id,public_ip,association_id,status,monthly_estimate_usd,recommendation
+demo-development,us-east-1,eipalloc-demo001,198.51.100.10,,REVIEW_UNASSOCIATED,3.65,Verify ownership and dependencies before considering release
+demo-development,us-east-1,eipalloc-demo002,203.0.113.15,eipassoc-demo002,ASSOCIATED,0.00,No release recommendation
+demo-staging,us-east-2,eipalloc-demo003,192.0.2.44,,REVIEW_UNASSOCIATED,3.65,Verify ownership and dependencies before considering release
+demo-staging,us-east-2,eipalloc-demo004,198.51.100.25,eipassoc-demo004,ASSOCIATED,0.00,No release recommendation
+demo-production,us-west-2,eipalloc-demo005,203.0.113.60,,REVIEW_UNASSOCIATED,3.65,Verify ownership and dependencies before considering release
